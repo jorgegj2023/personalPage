@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <style>
+      .tab {
+        display: inline-block;
+        padding: 10px;
+        background-color: lightgray;
+        text-align: center;
+        margin: 10px;
+      }
+      .container {
+        text-align: center;
+      }
+      .footer {
+        background-color: lightgray;
+        padding: 20px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <div class="tab">Contact</div>
+      <div class="tab">About Us</div>
+      <div class="tab">Store</div>
+    </div>
+    <div class="container">
+      <img src="image1.jpg" alt="Image 1">
+      <img src="image2.jpg" alt="Image 2">
+    </div>
+    <div class="footer">
+      <p>Company Name<br>
+         123 Main St<br>
+         City, State ZIP<br>
+         Phone: (123) 456-7890<br>
+         Email: info@companyname.com</p>
+    </div>
+  </body>
+</html>
